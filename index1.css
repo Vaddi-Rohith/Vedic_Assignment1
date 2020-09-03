@@ -1,0 +1,181 @@
+.top1{
+	background-color: #563D7C;
+	height: 80px;
+	position: fixed;
+	top: 0px;
+	width: 105%;
+
+}
+.left1{
+	color: white;
+	margin-left: 50px;
+	margin-top: 20px;
+	font-family: ALGERIAN;
+	font-size: 25px;
+}
+.topright{
+	color: white;
+	padding-top: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.mid1{
+	background-color: #1BBC9B;
+	text-align: center;
+	height: 650px;
+}
+.ing{
+	margin-top: 140px;
+	width: 250px;
+	height: 250px;
+	margin-bottom: 30px;
+
+}
+.line1{
+	font-size: 40px;
+	color: white;
+}
+.line2{
+	font-size: 30px;
+	color: black;
+	padding-bottom: 20px;
+}
+.portf{
+	text-align: center;
+	font-size: 25px;
+	height: 750px;
+	background-color: white;
+	padding-top: 30px;
+	font-family:  Times, serif;
+}
+.ing1{
+	width: 22%;
+	height: 250px;
+	display: inline-block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+ margin-right: 10px;
+
+}
+.ing2{
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+	border-radius: 50%;
+}
+.mid2{
+	height: 450px;
+	background-color:  #1BBC9B;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 50px;
+}
+.mid3{
+	height: 500px;
+	background-color: white;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 30px;
+}
+.tex{
+	font-family: ALGERIAN;
+	padding-top: 20px;
+}
+.ing11{
+	background-color: 	#BA4D64;
+}
+.ing22{
+	background-color: 	#1FA4B5;
+}
+.ing33{	
+	background-color: 	#130E0E;
+}
+.ing44{
+	background-color: 	#1D83C1;
+}
+.ing55{	
+	background-color: 	#1037B6;
+}
+.ing66{	
+	background-color: 	#CBB2A3;
+}
+.midleft{
+	margin-left: 140px;
+	font-size: 20px;
+}
+.midleft1{
+  float: left;
+  width: 50%;
+  padding-left: 50px;
+  padding-right: 30px;
+  font-size: 30px;
+}
+.input1{
+	 width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #888888;
+}
+.subm{
+	margin-top: 30px;
+	width: 20%;
+	height: 40px;
+	color: white;
+	padding-bottom: 300px;
+	margin-bottom: 50px;
+}
+.bottom{
+	background-color: #2D3E50;
+	height: 300px;
+	margin-top: 250px;
+	color: white;
+	padding-left: 140px;
+	padding-top: 60px;
+}
+.tp1{
+	text-align: center;
+}
+.final{
+	background-color: #1B252F;
+	height: 40px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
